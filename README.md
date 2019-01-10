@@ -2,4 +2,4 @@
 landing page simples com o intuído de praticar
 
 
-Clique <a href= "https://diegononato-landingpage-simples.netlify.com/">AQUI</a> para ver o site
+Clique <a href= "https://diegononato-landingpage-simples.netlify.com/" target="_blank">AQUI</a> para ver o site
