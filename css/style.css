@@ -168,3 +168,23 @@ html,body{
 	display: inline-block;
 	text-align: justify;
 }
+
+/* Footer */
+
+html,body {
+  margin: 0;
+  padding: 0;
+}
+* {
+  box-sizing: border-box;
+}
+
+.footer-legal {
+  background-color: #000;
+  padding: 20px 0;
+  font-size: 13px;
+  color: #fff;
+  text-align: center;
+}
+
+
